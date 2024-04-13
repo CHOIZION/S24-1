@@ -61,6 +61,5 @@ int main() {
             printf("%d\n", getTop());
         }
     }
-
     return 0;
 }
