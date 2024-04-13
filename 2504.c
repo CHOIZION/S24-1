@@ -95,7 +95,6 @@ int main(void) {
 	printf("%d", sum);
 	return 0;
 }
-
 /*
 백준 2504번
 
